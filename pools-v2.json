@@ -1836,5 +1836,17 @@
     "addresses": [],
     "tags": ["/DMND/"],
     "link": "https://www.dmnd.work/"
-  }
+  },
+  {
+    "id": 172,
+    "name": "The Mule",
+    "addresses": [
+        "qzwt4qr6dfnqwztyqqsj2eedslelafh9fcfmykqv27"
+    ],
+    "tags": [
+        "/TheMule/",
+        "/stats\\.themule\\.online/"
+    ],
+    "link": "https://stats.themule.online"
+}
 ]
